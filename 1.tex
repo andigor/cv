@@ -1,7 +1,8 @@
 \documentclass{article}
 \usepackage[a4paper, tmargin=0.2in, lmargin=0.4in, rmargin=0.4in]{geometry}
-\usepackage{xcolor}
+\usepackage{xcolor, colortbl}
 \usepackage{enumitem}
+\usepackage{lipsum}
 %\usepackage{showframe}
 \begin{document}
 \noindent\hrule height 5pt \vspace{4mm} \noindent
@@ -19,25 +20,32 @@ C++ software engineer with over 10 years of Linux development expierence\\
 \noindent\begin{tabular}{@{}ll}
   Programming languages: & C++/C, C++11, Bash, GNU Make, Asm, Python, C\# \\
   Libraries and frameworks: & STL, Boost, Sqlite, Qt, ACE\\
+  Consepts: & OOP, Multithreading, Networking, Metaprogramming, Scrum, TTD\\
   OS: & Linux, Windows, OSX\\
   VCS: & git, perforce, vim, clearcase\\
   Tools: & gdb, valgrind, vim, command line\\
-  Hardware: & PCs, Arm/Intel, Android/iOS devices, B\&R, Schneider, ABB\\
+  Hardware: & PC, Arm/Intel, Android/iOS devices, B\&R, Schneider, ABB\\
   Databases: &MySql\\
   Buildsystems: &GNU make, cmake, BitBake, qmake\\
   Compilers: &gcc, clang, msvc\\
-  Languages: &Russian, Ukrainian, English, Polish
+  Languages: &Russian, Ukrainian, English, Polish\\
 \end{tabular}\\
 \vspace{3mm}{\color{lightgray}\hrule height 0.2mm} 
 \vspace{2mm}
-\noindent \textbf{WORK HISTORY}\\
-\noindent Senior software engineer $\vert$ TomTom $\vert$ Lodz, Poland $\vert$ 10.2015 -- now\\
-\textbf{DataAccess at NavKit}\\
-NavKit is the navigation engine. DataAccess layer is responsible for exposing of the map data to higher layers.\\
-Responsibilities:\\
-\begin{itemize}
-    \item development
-    \item bug-fixing
-    \item review
-\end{itemize}
+\noindent \textbf{WORK HISTORY}\\[2mm]
+\noindent\begin{tabular}{@{}lp{45mm}p{115mm}}
+  Company: & \textbf{TomTom, Lodz, Poland} & \multicolumn{1}{r}{10.2015 -- now}\\
+  Project: & NavKit & Navigation engine which incorporates all the navigation logic of an on-board turn-by-turn navigation application\\
+  Team: & MapData access & DataAccess layer is responsible for exposing of the map data to higher layers\\
+  Position: & Senior software engineer & Development; bug-fixing; review; requirements gathering; memory, concurrency, performance profiling; memory dumps analysis; devices setup; testing\\
+  Technologies: & \multicolumn{2}{p{160mm}}{C++, STL, Boost, concurrency, Java, Python, cmake, bash, vim, perforce, git, gdb, valgrind, metaprogramming, cmake, Linux, Android, OSX, iOS, asm,  TTD, scrum, jira, fisheye}\\
+\end{tabular}\\[7mm]
+\noindent\begin{tabular}{@{}l>{\raggedright}p{45mm}p{115mm}}
+  Company: &  \textbf{Dell@Delphi, Kiev, Ukraine} & \multicolumn{1}{r}{08.2014 -- 09.2015}\\
+  Project: & FluidFS & Shared disk filesystem that provides distributed file systems to clients\\
+  Team: & Ifrastructure & Is responsible for low-level services, automatic installation, upgrade, build system\\
+  Position: & Techical lead & Build system maintenance and development, scripting, debugging, development, switching to x64, switching to C++11, linux distro upgrading \\
+  Awards: & Dell-IDC silver award & Best compilation time in last 10 years\\
+  Technologies: & \multicolumn{2}{p{160mm}}{GNU make, bash, vim, C++, STL, Boost, concurrency, Python, clearcase, gdb, Linux, bison/flex, ssh}\\
+\end{tabular}\\
 \end{document}
