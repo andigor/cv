@@ -1,0 +1,65 @@
+1. What is your product? What is its main use?
+
+2. What influence does your team have on a product? What are teams main responcibilites and goals?
+
+3. Could you please clacify your activities during your working day:
+  * coding
+  * reviewing
+  * tetsing
+  * meetings
+  * lunch
+  * coffie machine
+  * investigations (bugs, prototyping, etc)
+  * build system maintenance
+
+4. Please provide a percentage per month of time spent on each 
+
+5. What was the biggest challange you faced with current role. How do you solve it.
+
+6. Do you remember the most diffucult bug for current role? How was it solved.
+
+6. Is there anything you are proud of?
+
+7. Is there anything you don't like
+
+8. What are the disadvantages of your current role?
+
+9. What are the advantages of your current role?
+
+10. How do you see the future with your current role?
+
+11. What is the structure of your department? Team? Management?
+
+
+13. How are the tasks
+  * set
+  * designed
+  * tracked
+  * developed
+  * tested
+  * deployed
+
+14. Please describe task lifetime
+
+15. Please describe procedures you have:
+  * daily standup
+  * grooming sessions
+  * ???
+
+16. How does the knowledge distribute within the team?
+
+16. How often do you have so called "all hands on deck" situations? How do you tackle that?
+
+17. How often do you take shortcuts?
+
+18. Was there anything you are not proud of?
+
+19. When does the working day start? Stop? Floating?
+
+20. How does the company track the progress?
+
+21. Possibilities of the carrier growth?
+
+
+
+
